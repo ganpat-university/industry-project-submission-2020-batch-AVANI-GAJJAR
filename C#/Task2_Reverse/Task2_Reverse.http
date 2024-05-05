@@ -1,0 +1,6 @@
+@Task2_Reverse_HostAddress = http://localhost:5005
+
+GET {{Task2_Reverse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

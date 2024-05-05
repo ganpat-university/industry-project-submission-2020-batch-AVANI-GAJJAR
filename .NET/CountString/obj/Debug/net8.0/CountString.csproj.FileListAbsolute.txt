@@ -1,0 +1,14 @@
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.AssemblyInfoInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.AssemblyInfo.cs
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.csproj.CoreCompileInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\CountString\bin\Debug\net8.0\CountString.exe
+C:\Users\avani.gajjar\Desktop\C#\CountString\bin\Debug\net8.0\CountString.deps.json
+C:\Users\avani.gajjar\Desktop\C#\CountString\bin\Debug\net8.0\CountString.runtimeconfig.json
+C:\Users\avani.gajjar\Desktop\C#\CountString\bin\Debug\net8.0\CountString.dll
+C:\Users\avani.gajjar\Desktop\C#\CountString\bin\Debug\net8.0\CountString.pdb
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.dll
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\refint\CountString.dll
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.pdb
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\CountString.genruntimeconfig.cache
+C:\Users\avani.gajjar\Desktop\C#\CountString\obj\Debug\net8.0\ref\CountString.dll

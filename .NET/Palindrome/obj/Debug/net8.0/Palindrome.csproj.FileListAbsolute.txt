@@ -1,0 +1,14 @@
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\bin\Debug\net8.0\Palindrome.exe
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\bin\Debug\net8.0\Palindrome.dll
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.dll
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+C:\Users\avani.gajjar\Desktop\C#\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll

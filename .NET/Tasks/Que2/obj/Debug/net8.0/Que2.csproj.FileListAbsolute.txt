@@ -1,0 +1,14 @@
+C:\Users\avani.gajjar\Desktop\C#\Que2\bin\Debug\net8.0\Que2.exe
+C:\Users\avani.gajjar\Desktop\C#\Que2\bin\Debug\net8.0\Que2.deps.json
+C:\Users\avani.gajjar\Desktop\C#\Que2\bin\Debug\net8.0\Que2.runtimeconfig.json
+C:\Users\avani.gajjar\Desktop\C#\Que2\bin\Debug\net8.0\Que2.dll
+C:\Users\avani.gajjar\Desktop\C#\Que2\bin\Debug\net8.0\Que2.pdb
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.AssemblyInfoInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.AssemblyInfo.cs
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.csproj.CoreCompileInputs.cache
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.dll
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\refint\Que2.dll
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.pdb
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\Que2.genruntimeconfig.cache
+C:\Users\avani.gajjar\Desktop\C#\Que2\obj\Debug\net8.0\ref\Que2.dll
